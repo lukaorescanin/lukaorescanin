@@ -14,7 +14,7 @@ Pogledajte moje radove na [webart-fusion.com](https://webart-fusion.com).
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lukaorescanin&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lukaorescanin&theme=dark&background=#003366&border=#66b3ff)](https://git.io/streak-stats)
 
 ## 🛠️ Tehnologije i alati
 
