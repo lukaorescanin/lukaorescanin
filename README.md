@@ -20,7 +20,7 @@ Pogledajte moje radove na [webart-fusion.com](https://webart-fusion.com).
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express, Python, Django
-- **Baze podataka:** MongoDB, PostgreSQL
+- **Baze podataka:** MongoDB, PostgreSQL, MySQL
 - **Alati:** Git, Docker, VS Code
 
 ## 📫 Kako me kontaktirati
