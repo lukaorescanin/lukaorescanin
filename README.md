@@ -20,6 +20,12 @@ My work combines full-stack development with applied AI: integrating language mo
 
 I care about clean architecture, intuitive interfaces, and technology that delivers measurable value.
 
+## Current Focus
+
+- Designing reliable multiplayer gameplay systems and server-side tools.
+- Improving performance, observability, and maintainability as projects scale.
+- Building clear bilingual player experiences for international communities.
+
 ## AI & Automation
 
 - **AI Application Development** — integrating AI capabilities into web and desktop applications.
