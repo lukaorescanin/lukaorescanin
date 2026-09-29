@@ -37,6 +37,7 @@ I care about clean architecture, intuitive interfaces, and technology that deliv
 - AI assistants, chatbots, and custom AI integrations
 - Automated workflows and API integrations
 - Games, interactive experiences, and custom systems
+- Multiplayer game-server systems and gameplay modules
 
 ## Tech Stack
 
@@ -46,6 +47,7 @@ I care about clean architecture, intuitive interfaces, and technology that deliv
 | Backend | Node.js, Express, Python, Django |
 | Databases | PostgreSQL, MySQL, MongoDB |
 | AI & Automation | LLM APIs, AI Agents, RAG, Prompt Engineering |
+| Game Servers | Pawn, open.mp, MySQL-backed gameplay systems |
 | Development Tools | Git, GitHub, Docker, VS Code |
 
 ## My Approach
